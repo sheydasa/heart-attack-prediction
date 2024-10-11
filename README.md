@@ -39,8 +39,3 @@ python DataPrediction.py
 - Visualize data distributions and relationships
 - Train multiple machine learning models including Logistic Regression, Support Vector Machine, Decision Trees, Random Forests, Gradient Boosting, K-Nearest Neighbors, XGBoost, and Bernoulli Naive Bayes.
 - Evaluate each model's performance using cross-validation and display accuracy, confusion matrix, classification report, and ROC curve
-
-DATASET LINK
-
-DEPENDANCIES (REFERENCE REQUIREMENTS.TXT)
-
