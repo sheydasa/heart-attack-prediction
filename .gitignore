@@ -1,0 +1,11 @@
+
+myenv/
+
+heart.csv/
+
+__pycache__/
+*.py[cod]
+
+*.log
+*.tmp
+*.bak
