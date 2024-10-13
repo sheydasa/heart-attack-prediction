@@ -16,17 +16,16 @@ The dataset used for this project can be downloaded through [Kaggle](https://www
 1. Clone this repository:
 ```bash
 git clone https://github.com/sheydasa/heart-attack-prediction.git
-cd heart-attack-prediction
 ```
-2. Set up a virtual environment
+2. Navigate to the project directory:
 ```bash
-python -m venv myenv
-source myenv/bin/activate # On Windows use 'myenv\Scripts\activate'
+cd heart-attack-prediction
 ```
 3. Install the required packages
 ```bash
 pip install -r requirements.txt
 ```
+4. Download the dataset and place it in the file 'data' in your project directory
 
 ## USAGE
 1. Make sure the heart.csv dataset is in the same directory as DataPrediction.py
