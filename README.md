@@ -25,7 +25,7 @@ cd heart-attack-prediction
 ```bash
 pip install -r requirements.txt
 ```
-4. Download the dataset and place it in the file 'data' in your project directory
+4. Download the dataset and place it in the project directory
 
 ## USAGE
 1. Make sure the heart.csv dataset is in the same directory as DataPrediction.py
